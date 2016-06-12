@@ -1,0 +1,14 @@
+c:\users\mikołaj.miki\documents\visual studio 2015\Projects\Wojna\Wojna\bin\Debug\Wojna.exe.config
+c:\users\mikołaj.miki\documents\visual studio 2015\Projects\Wojna\Wojna\bin\Debug\Wojna.exe
+c:\users\mikołaj.miki\documents\visual studio 2015\Projects\Wojna\Wojna\bin\Debug\Wojna.pdb
+c:\users\mikołaj.miki\documents\visual studio 2015\Projects\Wojna\Wojna\obj\Debug\MainWindow.g.cs
+c:\users\mikołaj.miki\documents\visual studio 2015\Projects\Wojna\Wojna\obj\Debug\App.g.cs
+c:\users\mikołaj.miki\documents\visual studio 2015\Projects\Wojna\Wojna\obj\Debug\Wojna_MarkupCompile.cache
+c:\users\mikołaj.miki\documents\visual studio 2015\Projects\Wojna\Wojna\obj\Debug\Wojna_MarkupCompile.lref
+c:\users\mikołaj.miki\documents\visual studio 2015\Projects\Wojna\Wojna\obj\Debug\MainWindow.baml
+c:\users\mikołaj.miki\documents\visual studio 2015\Projects\Wojna\Wojna\obj\Debug\Wojna.g.resources
+c:\users\mikołaj.miki\documents\visual studio 2015\Projects\Wojna\Wojna\obj\Debug\Wojna.Properties.Resources.resources
+c:\users\mikołaj.miki\documents\visual studio 2015\Projects\Wojna\Wojna\obj\Debug\Wojna.csproj.GenerateResource.Cache
+c:\users\mikołaj.miki\documents\visual studio 2015\Projects\Wojna\Wojna\obj\Debug\Wojna.exe
+c:\users\mikołaj.miki\documents\visual studio 2015\Projects\Wojna\Wojna\obj\Debug\Wojna.pdb
+c:\users\mikołaj.miki\documents\visual studio 2015\Projects\Wojna\Wojna\obj\Debug\Wojna.csprojResolveAssemblyReference.cache
