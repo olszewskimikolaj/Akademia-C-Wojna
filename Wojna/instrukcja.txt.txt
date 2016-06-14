@@ -1,0 +1,15 @@
+Miko³aj Olszewski
+Projekt na zaliczenie kursu Akademia C#
+Wojna
+Projekt ma na celu stworzenie gry karcianej Wojna.
+Po uruchomieniu programu pojawia siê ekran g³ówny, w którym mo¿emy podaæ swoje dane.
+Po klikniêciu przycisku "Graj" program przenosi nas do sto³u gry.
+Klikaj¹c w kartê le¿¹c¹ bli¿ej nas wyk³adamy karty na stó³, razem z nami automatycznie robi to drugi gracz (komputer).
+W tym momencie s¹ 3 mo¿liwoœci - wygrana, przegrana, wojna.
+W momencie wygranej/przegranej ponowne klikniêcie w nasz stos kart przydziela karty ze sto³u wygranemu.
+W wypadku wojny klikniêcie w nasz stos kart wyk³ada kolejn¹ kartê na stó³ koszulk¹ do góry.
+Ponowne klikniêcie wyk³ada po kolejnej karcie z naszego stosu i ze stosu komputera.
+Kolejne klikniêcie zbiera karty i przydziela je wygranemu.
+W trakcie rozgrywki dostêpne s¹ te¿ dwa przyciski - nowa gra i info.
+Nowa gra przenosi nas do "ekranu startowego" i pozwala na rozpoczêcie nowej gry.
+Info wyœwietla komunikat, ¿e nale¿y klikaæ w nasz stos kart aby kartê wy³o¿yæ/zabraæ.
